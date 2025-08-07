@@ -27,3 +27,21 @@ Create a database :arrow_right: Select __MariaDB__ :arrow_right: Set *DB instanc
   <ol start="4"><li><figcaption>Tick all the boxes shown below</figcaption></li></ol>
   <img alt="Tick all boxes" src="steps/ec2-steps/step-4b.png" width="60%" title="Tick all boxes"/>
 </figure>
+<figure>
+  <ol start="5"><li><figcaption>After launching the instance from the <i>Summary</i> section, you should see the <i>Instance ID</i></figcaption></li></ol>
+  <li><figcaption>TIP: THIS WILL BE USEFUL! Write down the <i>Instance ID</i> somewhere, you can use this later (e.g. <i>i-000000000</i>)</figcaption></li>
+  <br/>
+  <img alt="Instance ID" src="steps/ec2-steps/step-5.png" width="40%" title="Instance ID"/>
+</figure>
+<figure>
+  <ol start="6"><li><figcaption>In the right-most column of the <i>Instance summary</i>, look at the <b>Public DNS</b> section</figcaption></li></ol>
+  <li>
+    <figcaption>
+      THIS IS CRITICAL INFORMATION! Write down the <b>Public DNS</b> somewhere, you will use this a lot! 
+      <br/>
+      (e.g. <b>ec2-0-0-0-0.us-nesw-0.compute.amazonaws.com</b>)
+    </figcaption>
+  </li>
+  <br/>
+  <img alt="Public DNS" src="steps/ec2-steps/step-6.png" width="50%" title="Public DNS"/>
+</figure>
