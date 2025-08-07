@@ -21,3 +21,9 @@ Create a database :arrow_right: Select __MariaDB__ :arrow_right: Set *DB instanc
   <ol start="3"><li><figcaption>In the <i>Key pair name</i> field, type in <b>keypair</b> and then click on <i>Create key pair</i></figcaption></li></ol>
   <img alt="Type in keypair" src="steps/ec2-steps/step-3b.png" width="40%" title="Type in keypair"/>
 </figure>
+<figure>
+  <ol start="4"><li><figcaption>Look under the <i>Network settings</i> section</figcaption></li></ol>
+  <img alt="Network settings" src="steps/ec2-steps/step-4a.png" width="20%" title="Network settings"/>
+  <ol start="4"><li><figcaption>Tick all the boxes shown below</figcaption></li></ol>
+  <img alt="Tick all boxes" src="steps/ec2-steps/step-4b.png" width="60%" title="Tick all boxes"/>
+</figure>
