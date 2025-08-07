@@ -45,3 +45,6 @@ Create a database :arrow_right: Select __MariaDB__ :arrow_right: Set *DB instanc
   <br/>
   <img alt="Public DNS" src="steps/ec2-steps/step-6.png" width="50%" title="Public DNS"/>
 </figure>
+
+## Congratulations! :tada:
+### You finished creating an EC2 instance! :white_check_mark:
