@@ -1,0 +1,1 @@
+The files "setup-ssh.exe" and "ec2-ssh.exe" MUST live in the "dist" folder.
